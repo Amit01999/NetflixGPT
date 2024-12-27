@@ -1,4 +1,8 @@
 {
+  "engines": {
+  "node": "18.x",
+  "npm": "8.x"
+},
   "name": "netflix-gpt",
   "version": "0.1.0",
   "homepage": "https://okneeraj.github.io/netflix-gpt",
